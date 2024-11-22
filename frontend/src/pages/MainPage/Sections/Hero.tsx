@@ -1,5 +1,6 @@
 import React from 'react';
 import HeroImg from '../../../assets/hero.svg';
+
 const Hero = () => {
   return (
     <div className='hero wrapper'>
@@ -11,6 +12,7 @@ const Hero = () => {
       <div className="section1Image">
         <img src={HeroImg} alt="" />
       </div>
+
     </div>
   )
 }
