@@ -1,4 +1,4 @@
-import React from 'react'
+
 import People from '../../components/people/People';
 import './about.css';
 import aboutImg from '../../assets/about.svg';
